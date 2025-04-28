@@ -1,0 +1,7 @@
+pandas==1.5.3
+numpy==1.23.5
+nltk==3.8.1
+nrclex==3.0.0
+transformers==4.29.2
+scikit-learn==1.2.2
+torch>=1.13.1        # if you’re using a GPU build
