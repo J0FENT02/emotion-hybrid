@@ -18,4 +18,4 @@ Download the dataset zip.
 Unzip and place training.csv in the project root, rename to "emotion-dataset.csv" as used in the code.
 
 ## Usage
-run Emotion Detection Project Code.py
+run "Emotion Detection Project Code.py"
