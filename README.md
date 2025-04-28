@@ -14,4 +14,8 @@ pip install -r requirements.txt
 ## Data
 The “Emotion Dataset for Emotion Recognition Tasks” from Kaggle is used.
 https://www.kaggle.com/datasets/parulpandey/emotion-dataset
-Download this dataset and rename to "emotion-dataset.csv" as used in the code.
+Download the dataset zip.
+Unzip and place training.csv in the project root, rename to "emotion-dataset.csv" as used in the code.
+
+## Usage
+run Emotion Detection Project Code.py
